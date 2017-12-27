@@ -1,0 +1,5 @@
+# SpotifAI
+Quick project using Spotify's audio analysis to predict the genre of songs
+
+# Introduction
+I have long been intrigued with data gleaned from music which is analyzed to find patterns and relationships. One of my favorite and most relevant examples is Spotify's Discover features such as the personalized Discover Weekly playlists. The idea is to follow the listening patterns of a Spotify user and create a playlist of songs they have never heard before but may like given their recent listening history. At the heart of this task is the ability use each song's data to make certain predictions about possible relationships. For my project, I will be using song data given by the [audio analysis through Spotify's Developer API](https://developer.spotify.com/web-api/get-audio-analysis/). My goal is to show how small amounts of data can be used to make predictions about a song. With this foundation, one can then move onto consider the complex functions and relationships that may be learned given a much more robust dataset.
